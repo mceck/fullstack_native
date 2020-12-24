@@ -3,8 +3,8 @@
 install packages:
 `yarn`
 
-start dev server
-`yarn start [web|android|ios]`
+start dev
+`yarn [web|android|ios]`
 
 generate GraphQL codegen
 `yarn gen`
